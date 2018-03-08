@@ -1,16 +1,14 @@
 # @dean_neal/http
 
-  > AceJs - is a MVVM front-end framework based on web components technology.
-
 [![NPM](https://img.shields.io/npm/v/@dean_neal/http.svg)](https://www.npmjs.com/package/@dean_neal/http)
 [![Downloads](https://img.shields.io/npm/dm/@dean_neal/http.svg)](http://npm-stat.com/charts.html?package=@dean_neal/http)
-[![License](https://img.shields.io/github/license/DeanNeal/dean_neal-http.svg?style=flat-square)](https://npmjs.org/package/dean_neal-http)
-[![Issues](https://img.shields.io/github/issues/DeanNeal/dean_neal-http.svg?style=flat-square)](https://github.com/DeanNeal/dean_neal-http/issues)
+[![License](https://img.shields.io/github/license/DeanNeal/http.svg?style=flat-square)](https://npmjs.org/package/http)
+[![Issues](https://img.shields.io/github/issues/DeanNeal/http.svg?style=flat-square)](https://github.com/DeanNeal/http/issues)
 
 ## Don't use it in production. It's alpha version!!!
 ## Installation
 
-[![NPM](https://nodei.co/npm/dean_neal-http.png)](https://nodei.co/npm/dean_neal-http/)
+[![NPM](https://nodei.co/npm/@dean_neal/http.png)](https://nodei.co/npm/@dean_neal/http/)
 
 Using npm:
 
