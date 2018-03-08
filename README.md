@@ -18,7 +18,7 @@ npm i @dean_neal/http
 
 Get lastest version of dean_neal-http:
 ```
-npm i dean_neal-http@latest
+npm i @dean_neal/http@latest
 ```
 
 In your code:
