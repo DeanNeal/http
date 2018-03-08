@@ -24,16 +24,16 @@ npm i dean_neal-http@latest
 In your code:
 
 ```bash
-let AceJs = require('dean_neal-http');
+let AceJs = require('@dean_neal/http');
 or
-import {...} from 'dean_neal-http';
+import {...} from '@dean_neal/http';
 ```
 
 ## License
 
 MIT License
 
-Copyright (c) 2017 Bogdan Zinkevich
+Copyright (c) 2017-2018 Bogdan Zinkevich
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
