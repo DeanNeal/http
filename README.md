@@ -24,7 +24,7 @@ npm i @dean_neal/http@latest
 In your code:
 
 ```bash
-let AceJs = require('@dean_neal/http');
+let Http = require('@dean_neal/http');
 or
 import {...} from '@dean_neal/http';
 ```
